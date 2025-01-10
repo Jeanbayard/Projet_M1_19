@@ -1,0 +1,22 @@
+PLANNING
+
+lundi 6-1 : lecture des ressources données
+
+mardi 7-1 : rdv Gamblin + écriture CdC 
+
+mercredi 8-1-25
+- installer les outils
+- prise en main git(hub)
+
+jeudi 9-1-25
+-regarder les graphes (back-end)
+-avoir des trucs interactifs sur la carte (orienté objet)
+-chercher csv hôpitaux sur data gouv
+
+vendredi 10-1-25
+- regarder graphes
+- avoir des trucs interactifs sur la carte (faire de l'orienté objet)
+- la structure, répartition
+
+lundi 13-1 :
+- 14H: VOIR GAMBLIN pour présenter CdC et autres questions
